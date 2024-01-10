@@ -19,10 +19,6 @@ Welcome to my SAS studies repository! Here you will find SAS code files related 
 - `/output`: Results of SAS code.
 - `/intermediate_data`: Intermediate data processing steps.
 
-## How to Contribute
-
-If you have suggestions, corrections, or improvements, feel free to open an issue or submit a pull request. Your contribution is always welcome!
-
 ## Contact
 
 If you have any questions or would like to get in touch, feel free to reach me at [fabio.franchi@gmail.com].
